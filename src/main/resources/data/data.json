@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "state": {
+      "type": "New"
+    },
+    "details": "Bags of cat toilet filler, 3x"
+  },
+  {
+    "id": 2,
+    "state": {
+      "type": "Processing"
+    },
+    "details": "Butter biscuits, 180g, 5x"
+  },
+  {
+    "id": 3,
+    "state": {
+      "type": "Shipped"
+    },
+    "details": "Aquarel paper, 10 sheets, 1x"
+  },
+  {
+    "id": 4,
+    "state": {
+      "type": "New"
+    },
+    "details": "Ceramic cup, 2x"
+  },
+  {
+    "id": 5,
+    "state": {
+      "type": "Processing"
+    },
+    "details": "Brown sugar, 1kg, 5x"
+  },
+  {
+    "id": 6,
+    "state": {
+      "type": "Shipped"
+    },
+    "details": "Corn flakes, 2kg, 2x"
+  },
+  {
+    "id": 7,
+    "state": {
+      "type": "New"
+    },
+    "details": "Kitchen knife set, 1x"
+  },
+  {
+    "id": 8,
+    "state": {
+      "type": "Processing"
+    },
+    "details": "Lawn trimmer knives set, 5x"
+  },
+  {
+    "id": 9,
+    "state": {
+      "type": "Shipped"
+    },
+    "details": "Coloured pencils package, 3x"
+  },
+  {
+    "id": 10,
+    "state": {
+      "type": "New"
+    },
+    "details": "Type C charger, 1x"
+  }
+]

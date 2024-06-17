@@ -1,0 +1,18 @@
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order added: Order{id=1', details:Bags of cat toilet filler, 3x', state=New}'
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order added: Order{id=2', details:Butter biscuits, 180g, 5x', state=Processing}'
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order added: Order{id=3', details:Aquarel paper, 10 sheets, 1x', state=Shipped}'
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order added: Order{id=4', details:Ceramic cup, 2x', state=New}'
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order added: Order{id=5', details:Brown sugar, 1kg, 5x', state=Processing}'
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order added: Order{id=6', details:Corn flakes, 2kg, 2x', state=Shipped}'
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order added: Order{id=7', details:Kitchen knife set, 1x', state=New}'
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order added: Order{id=8', details:Lawn trimmer knives set, 5x', state=Processing}'
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order added: Order{id=9', details:Coloured pencils package, 3x', state=Shipped}'
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order added: Order{id=10', details:Type C charger, 1x', state=New}'
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Orders successfully loaded
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order retrieved: Order{id=7', details:Kitchen knife set, 1x', state=New}'
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order created: Order{id=7', details:Kitchen knife set, 1x', state=New}'
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order retrieved: Order{id=7', details:Kitchen knife set, 1x', state=New}'
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Tracking order 7: New
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order status: New
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order 7 moved to Processing
+2024-06-17 21:40:19 [main] INFO  org.example.util.Logger - Order 7 moved to Shipped
